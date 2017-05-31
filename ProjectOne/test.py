@@ -34,8 +34,8 @@ def run():
                     if result < functionx:
                         result = functionx
                     if result2 == result:
-                        print 'x1 is',x[0], 'y1 is', y[0], 'x2 is', x[1],'y2 is',y[1]
+                        print 'x1 is ',x[0], ' y1 is ', y[0], ' x2 is ', x[1], ' y2 is ', y[1], ‘ result is ’, result
                         break
 
 
-run()                        
+run()
